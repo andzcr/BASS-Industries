@@ -31,3 +31,4 @@ Am construit un sistem robust de theming bazat direct pe **Variabile CSS** nativ
 
 **4. Design și Structură (Tailwind & Semantic HTML)**
 Structura de bază este HTML5 semantic curat. Pentru stilizare, am folosit **Tailwind CSS** pentru rapiditate în layout și responsiveness, dar l-am combinat cu mult CSS custom pentru efectele specifice – cum ar fi acele borduri "curgătoare" cu gradient de pe cardurile de servicii sau efectul de dezvăluire a footer-ului la finalul paginii.
+
